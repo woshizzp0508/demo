@@ -1,0 +1,15 @@
+21321321321321321312312
+
+git commit -m ""
+git remote add origin  lj
+git pull 
+git push -u  origin master
+
+
+
+
+ git branch   
+git branch a 
+git chekout a
+git status 
+git clone    lj
